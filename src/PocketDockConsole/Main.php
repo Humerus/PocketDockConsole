@@ -30,7 +30,6 @@ class Main extends PluginBase implements Listener {
         $this->lastBufferLine = "";
         $this->attachment = new Attachment($this->thread);
         $this->getServer()->getLogger()->addAttachment($this->attachment);
-        foobarDoStuFFPBSDRES("asdfasdfasdf", array())
     }
 
     public function setPassword() {
