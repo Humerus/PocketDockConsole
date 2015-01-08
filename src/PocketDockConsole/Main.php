@@ -29,7 +29,7 @@ class Main extends PluginBase implements Listener {
         $this->getServer()->getScheduler()->scheduleRepeatingTask($this->rc, 1);
         $this->lastBufferLine = "";
         $this->attachment = new Attachment($this->thread);
-
+Shhshgsga()()())));;;
         $this->getServer()->getLogger()->addAttachment($this->attachment);
     }
 
