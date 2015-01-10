@@ -1,4 +1,4 @@
-PocketDockConsole -- *Because RCON was so retro*  <a href="https://builder.pocketdock.tk/build/28647851"><img src="https://builder.pocketdock.tk/api/getStatus/28647851" width="100"></a>
+PocketDockConsole -- *Because RCON was so retro*  <a href="https://builder.pocketdock.tk/build/28647851"><img src="https://builder.pocketdock.tk/api/getStatus/28647851" width="120"></a>
 =================
 
 ##What does this plugin do?
