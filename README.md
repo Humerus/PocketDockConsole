@@ -1,6 +1,6 @@
 PocketDockConsole -- *Because RCON was so retro*  <a href="https://builder.pocketdock.tk/build/28647851"><img src="https://builder.pocketdock.tk/api/getStatus/28647851" width="120"></a>
 =================
-
+...
 ##What does this plugin do?
 - Allows server admins to have a quick and easy way to administer their servers without the need for RCON
 - Gives admins the ability to manage their server from a familiar interface that they can access with ANY web browser (at least ones that have WebSockets)
