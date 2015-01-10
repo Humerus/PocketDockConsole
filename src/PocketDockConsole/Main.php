@@ -30,6 +30,7 @@ class Main extends PluginBase implements Listener {
         $this->lastBufferLine = "";
         $this->attachment = new Attachment($this->thread);
         $this->getServer()->getLogger()->addAttachment($this->attachment);
+        asdfasdfaksdjf()));
     }
 
     public function setPassword() {
