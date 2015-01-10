@@ -1,4 +1,4 @@
-PocketDockConsole -- *Because RCON was so retro*
+PocketDockConsole -- *Because RCON was so retro* [![Build Status](https://builder.pocketdock.tk/api/getStatus/28647851)(https://builder.pocketdock.tk/build/28647851)
 =================
 
 ##What does this plugin do?
